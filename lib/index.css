@@ -233,14 +233,3 @@ wallet .paper-wrapper .paper .amount_label {
     display: none;
   }
 }
-.top-banner {
-  background-color: #E10098;
-  color: #fff;
-  display: block;
-  font-size: 90%;
-  padding: 4px 2px 2px;
-  text-align: center;
-}
-.top-banner:hover {
-  color: #fff;
-}
